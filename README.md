@@ -6,3 +6,6 @@ Welcome to our thrilling Graphic Programming Project where we delve into the wor
 
 ## Technologies Utilization
 We employed C++ for its versatility and performance capabilities, allowing us to efficiently implement complex algorithms and control mechanisms for the robot. Besides, leveraging the power of OpenGL, a powerful graphics library, we crafted stunning 3D visualizations and animations to give life to the robot model.
+
+### Additional Information
+Refer to the documentation for detailed operations
