@@ -1,0 +1,6 @@
+C:\Users\chean\source\repos\MetaliteRobot\Debug\MetaliteRobot.exe
+C:\Users\chean\OneDrive\Desktop\MetaliteRobot\Debug\MetaliteRobot.exe
+C:\Users\user\Downloads\MetaliteRobot\Debug\MetaliteRobot.exe
+C:\Users\Jessie Liew\Downloads\MtliteRbt (Background & Sword Ani)\MetaliteRobot\Debug\MetaliteRobot.exe
+C:\Users\chean\Desktop\MetaliteRobot\Debug\MetaliteRobot.exe
+T:\Bachelor\Year 2\SEM 1\Graphic Programming\JessieLiew-NicholasYueQinNam-CheanKaeLun(RSF2-G7)\MetaliteRobot\Debug\MetaliteRobot.exe
